@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-Testing here
+Immunology student interested in Epigenomics.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Epigenomics profiling:** ATAC-seq, CRISPR-Cas9 Editing, Cell Culture
+- **Computational Biology:** R, command line, RNA-seq Differential Analysis
 
 {% include_relative _includes/education.md %}
 
