@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-Immunology student interested in Epigenomics.
+Improve understanding of Cancer Biology and Immunology via Epigenomic analysis.
 
 ## Research Interests
 
 - **Epigenomics profiling:** ATAC-seq, CRISPR-Cas9 Editing, Cell Culture
 - **Computational Biology:** R, command line, RNA-seq Differential Analysis
+- **Cancer Biology and Immunology:** Cancer therapeutics, Precision oncology, Pediatric Rare Cancers
 
 {% include_relative _includes/education.md %}
 
@@ -25,4 +26,4 @@ Immunology student interested in Epigenomics.
 
 {% include_relative _includes/conferences.md %}
 
-{% include_relative _includes/service.md %}
+{% include_relative _includes/service.md %} -->
