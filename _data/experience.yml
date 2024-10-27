@@ -2,18 +2,18 @@ main:
 
   - type: education
     degreepath: This is a degree path # for type.education.
-    institution: University University
-    department: Lorem Ipsum
+    institution: University of British Columbia
+    department: Department of Microbiology and Immunology
     advisors: # for type.education.
     thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
     years: 2017 - Present
     notes: In Progress
     
   - type: job
-    title: Example Job # for type.employment.
-    institution: University University
-    department: Department
-    years: 2024 - Present
+    title: Graduate Research Assistant # for type.employment.
+    institution: University of British Columbia
+    department: Department of Microbiology and Immunology
+    years: 2015 - Present
     
   - type: service
     title: A role
