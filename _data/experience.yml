@@ -1,12 +1,12 @@
 main:
 
   - type: education
-    degreepath: This is a degree path # for type.education.
+    degreepath: Graduate Studies # for type.education.
     institution: University of British Columbia
     department: Department of Microbiology and Immunology
     advisors: # for type.education.
-    thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2017 - Present
+    thesis: "" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    years: 2015 - Present
     notes: In Progress
     
   - type: job
