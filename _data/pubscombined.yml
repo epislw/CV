@@ -31,24 +31,24 @@ main: # You can enter in your items in a long list in this form. A few notes: th
     notes:
     
   - type: conference
-    title: "A Conference Publication"
+    title: "BAF complex"
     authors: Linda Wang
-    conference: A Conference # for type:conference
-    date: October 2024
-    notes: Upcoming
+    conference: The 5th Canadian Conference on Epigenetics # for type:conference
+    date: October 2018
+    notes: Estérel, Québec
     
   - type: conference
-    title: "A Conference Publication"
+    title: "BAF complexes members and enhancer landscapes"
     authors: Linda Wang
-    conference: A Conference # for type:conference
-    date: October 2024
-    notes: Upcoming
+    conference: 6th Canadian Conference on Epigenetics/IHEC Annual meeting # for type:conference
+    date: November 17-20th, 2019
+    notes: Banff, Alberta
 
   - type: conference
     title: "Optimizing Drug Release"
     authors: Linda Wang
     conference: Biophysical Society 58th Annual Meeting # for type:conference
-    date: February 15-19, 2024
+    date: February 15-19, 2014
     notes: San Francisco, California
     
       
