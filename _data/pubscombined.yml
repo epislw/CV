@@ -2,7 +2,7 @@ main: # You can enter in your items in a long list in this form. A few notes: th
 
   - type: essay # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments, and "art" for artistic project, installation, or show.
     title: "A Journal Publication"
-    authors: John Doe # for multiple authors, you can use the <strong></strong> or <b></b> to emphasize your authorship.
+    authors: Linda Wang # for multiple authors, you can use the <strong></strong> or <b></b> to emphasize your authorship.
     pub_abbr: Pub # for type:essay
     publication: Publication # for type:essay
     date: 2024
@@ -12,21 +12,21 @@ main: # You can enter in your items in a long list in this form. A few notes: th
     
   - type: conference
     title: "A Conference Publication"
-    authors: Jane Doe
+    authors: Linda Wang
     conference: A Conference # for type:conference
     date: October 2024
     notes: Upcoming
     
   - type: conference
     title: "A Conference Publication"
-    authors: Jane Doe
+    authors: Linda Wang
     conference: A Conference # for type:conference
     date: October 2024
     notes: Upcoming
 
   - type: conference
     title: "A Conference Publication"
-    authors: Jane Doe
+    authors: Linda Wang
     conference: A Conference # for type:conference
     date: October 2024
     notes: Upcoming
@@ -46,7 +46,7 @@ main: # You can enter in your items in a long list in this form. A few notes: th
 
   - type: art
     title: <i>An Art Project</i>
-    authors: Sean Purcell
+    authors: Linda Wang
     date: 2022
     image: ./assets/img/TI_ProdStill1.png
     displayed: Displayed at a gallery. 
