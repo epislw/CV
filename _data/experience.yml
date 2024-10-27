@@ -14,11 +14,7 @@ main:
     institution: University of British Columbia
     department: Department of Microbiology and Immunology
     years: 2015 - Present
-    
-  - type: Member
-    title: Associate Member
-    institution: American Associate for Cancer Research
-    years: 2019 - 2024
+
     
 # The structure of the data. You can include or exclude material as you need.
 #  - type: # types include "education" for degree paths, "job" for past positions, and "service" for service positions.
