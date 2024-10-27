@@ -15,16 +15,12 @@ main:
     department: Department of Microbiology and Immunology
     years: 2015 - Present
     
-  - type: service
-    title: A role
-    institution: University university
-    years: 2020 - 2024
-    notes: Chair
+  - type: Member
+    title: AACR 
+    institution:  American Associate for Cancer Research
+    years: 2019 - 2024
+    notes: Associate Membership
     
-  - type: service
-    title: Another role
-    institution:
-    years: 2021s
     
 # The structure of the data. You can include or exclude material as you need.
 #  - type: # types include "education" for degree paths, "job" for past positions, and "service" for service positions.
