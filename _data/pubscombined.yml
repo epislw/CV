@@ -10,7 +10,7 @@ main: # You can enter in your items in a long list in this form. A few notes: th
     image: ./assets/img/DEgenes.png #for type:essay. You will need to link to the file in your assets folder ./assets/img/[FILENAME].[FILETYPE]
     notes:
 
-   - type: essay # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments, and "art" for artistic project, installation, or show.
+  - type: essay # types include "essay" for peer-reviewed work, "conference" for presentations, "grant" for fellowships and other funding lines, "award" for awarded accomplishments, and "art" for artistic project, installation, or show.
     title: "Optimizing Drug Release"
     authors: Linda Wang # for multiple authors, you can use the <strong></strong> or <b></b> to emphasize your authorship.
     pub_abbr: Pub # for type:essay
