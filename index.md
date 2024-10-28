@@ -25,5 +25,3 @@ Improve understanding of Cancer Biology and Immunology via Epigenomic analysis.
 {% include_relative _includes/awards.md %}
 
 {% include_relative _includes/conferences.md %}
-
-<!--{% include_relative _includes/service.md %}-->
