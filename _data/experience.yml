@@ -5,7 +5,7 @@ main:
     institution: University of British Columbia
     department: Department of Microbiology and Immunology
     advisors: # for type.education.
-    thesis: "" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    thesis: "Pediatric Rare Cancer" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
     years: 2015 - Present
     notes: In Progress
     
